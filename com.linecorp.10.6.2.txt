@@ -1,0 +1,9 @@
+11712
+ปล่อย|9b414c6c|10|0|0|0|0|0|r-xp|/data/app/com.linecorp.LGRGS-1UumUgmp5cJ7Y7BPMulqUA==/lib/arm/libgame.so|4c9c6c
+วาป|9b418790|10|0|0|0|0|0|r-xp|/data/app/com.linecorp.LGRGS-1UumUgmp5cJ7Y7BPMulqUA==/lib/arm/libgame.so|4cd790
+ตีป้อม|9b419690|10|0|0|0|0|0|r-xp|/data/app/com.linecorp.LGRGS-1UumUgmp5cJ7Y7BPMulqUA==/lib/arm/libgame.so|4ce690
+กันราบงาน|9b46f000|10|79616c70|0|0|0|0|r-xp|/data/app/com.linecorp.LGRGS-1UumUgmp5cJ7Y7BPMulqUA==/lib/arm/libgame.so|524000
+จรวดไม่เเรง|9b48968c|10|42b40000|0|0|0|0|r-xp|/data/app/com.linecorp.LGRGS-1UumUgmp5cJ7Y7BPMulqUA==/lib/arm/libgame.so|53e68c
+ตาย|9b4d00f8|10|c2c80000|0|0|0|0|r-xp|/data/app/com.linecorp.LGRGS-1UumUgmp5cJ7Y7BPMulqUA==/lib/arm/libgame.so|5850f8
+ตีเเรง|9b742a50|10|0|0|0|0|0|r-xp|/data/app/com.linecorp.LGRGS-1UumUgmp5cJ7Y7BPMulqUA==/lib/arm/libgame.so|7f7a50
+เร่งเวลา|9bc1160c|10|3f8f5c29|0|0|0|0|r-xp|/data/app/com.linecorp.LGRGS-1UumUgmp5cJ7Y7BPMulqUA==/lib/arm/libgame.so|cc660c
